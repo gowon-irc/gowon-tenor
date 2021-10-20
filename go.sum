@@ -49,6 +49,8 @@ github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0U
 github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/gowon-irc/go-gowon v0.0.0-20211016234342-d666c7430ea9 h1:Boyyo7CC+14AMNXEKJlrGzkdMwZzFz6fjOcgxtuXXho=
 github.com/gowon-irc/go-gowon v0.0.0-20211016234342-d666c7430ea9/go.mod h1:iY2WKgdQI1tsyd+lYFioxAnb5+8FQlJ9vqCTAUoq8QQ=
+github.com/gowon-irc/go-gowon v0.0.0-20211017030812-504fef2a8ace h1:jsV+5wijpTb5gnmWGc6t7wDFcqUFH4NCzUaNcUsrIbs=
+github.com/gowon-irc/go-gowon v0.0.0-20211017030812-504fef2a8ace/go.mod h1:iY2WKgdQI1tsyd+lYFioxAnb5+8FQlJ9vqCTAUoq8QQ=
 github.com/gowon-irc/gowon v0.0.0-20211012014610-ece6c2510654/go.mod h1:Qx8xz3LnjqnCxG6gTrKW6IWDdl4FTLvQVmBZEI5BAzk=
 github.com/hashicorp/golang-lru v0.5.0/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
 github.com/hashicorp/golang-lru v0.5.1/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
